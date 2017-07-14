@@ -1,6 +1,8 @@
-# ansible-template - source: http://docs.ansible.com/ansible/playbooks_best_practices.html#staging-vs-production
+# ansible-template
 
 ```
+source: http://docs.ansible.com/ansible/playbooks_best_practices.html#staging-vs-production
+
 production                # inventory file for production servers
 staging                   # inventory file for staging environment
 
